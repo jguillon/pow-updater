@@ -1,5 +1,5 @@
 {
-  "name": "PoW Updater",
+  "name": "PoW-Updater",
   "email" : "contact@guillonjeremy.co",
   "url" : "http://guillonjeremy.co/",
   "version": "0.1.0",
@@ -7,7 +7,9 @@
   "dependencies": {
     "express": "latest",
     "body-parser": "latest",
-    "fs": "latest"
+    "fs": "latest",
+    "https": "latest",
+    "xml": "latest"
   },
   "scripts": {
     "start": "node app.js"
