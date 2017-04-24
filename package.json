@@ -1,0 +1,15 @@
+{
+  "name": "PoW Updater",
+  "email" : "contact@guillonjeremy.co",
+  "url" : "http://guillonjeremy.co/",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "fs": "latest"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
